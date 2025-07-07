@@ -1,5 +1,11 @@
 /*GPS Pet Tracker 
 
+// Author: Wyder Lalangan
+// GitHub Repository: https://github.com/WyderL24
+// LinkedIn Profile: www.linkedin.com/in/wyderl
+// Connect with Me: 
+//      E-mail: wyderl24@gmail.com
+//       Skype: live:.cid.19f15983a80c2bd1
 */
 
 #include "config.h"
