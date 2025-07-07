@@ -1,3 +1,7 @@
+/*GPS Pet Tracker 
+
+*/
+
 #include "config.h"
 #include "gps_module.h"
 #include "sensors.h"
